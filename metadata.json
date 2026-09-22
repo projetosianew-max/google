@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia Puyol do Corte Original",
+  "description": "Aplicativo oficial da Barbearia Puyol do Corte Original - Agendamento em tempo real, Clube de Fidelidade, painel do barbeiro e gestão administrativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
